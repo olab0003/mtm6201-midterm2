@@ -77,7 +77,6 @@ li a:hover {
 
 .button{
 	background:#7c5b32;
-	box-shadow:#725430e1;
 	animation: pulse 3s infinite;
 }
 
